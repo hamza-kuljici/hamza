@@ -1,0 +1,10 @@
+<!doctype>
+ <html>
+ <head>
+   <title>color ne html </title>
+   </head>
+   
+   <body>
+   <h1>color ne html>
+   </body>
+   </html>
